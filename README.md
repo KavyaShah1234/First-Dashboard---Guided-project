@@ -117,10 +117,10 @@ This project was developed as part of my Power BI learning journey to gain hands
 
 ## 📂 Repository Contents
 
-- `mobile_sales_dashboard.pbix` → Power BI dashboard file
+- `First Dashboard.pbix` → Power BI dashboard file
 - `README.md` → Project documentation
-- `dashboard_overview.png` → Dashboard screenshot
-- Dataset (if permitted)
+- `Dashboard.png` → Dashboard screenshot
+- Mobile Sales Data
 
 ---
 
